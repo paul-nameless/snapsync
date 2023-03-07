@@ -1,0 +1,17 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'SnapSync'
+theme = 'PaperMod'
+
+[[menu.main]]
+identifier = "help"
+name = "Help"
+url = "/help/"
+weight = 10
+
+[params]
+hideFooter = true
+
+[markup.goldmark.parser.attribute]
+block = true
+title = true

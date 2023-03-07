@@ -1,0 +1,7 @@
+version: '3'
+# https://taskfile.dev
+
+tasks:
+
+  default:
+    - hugo server
