@@ -7,7 +7,7 @@ canonifyURLs = true
 [[menu.main]]
 identifier = "help"
 name = "Help"
-url = "/help/"
+url = "/snapsync/help/"
 weight = 10
 
 [params]
