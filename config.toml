@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://paul-nameless.com/snapsync/'
 languageCode = 'en-us'
 title = 'SnapSync'
 theme = 'PaperMod'
