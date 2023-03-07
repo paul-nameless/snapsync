@@ -11,7 +11,7 @@ url = "/snapsync/help/"
 weight = 10
 
 [params]
-hideFooter = true
+hideFooter = false
 
 [markup.goldmark.parser.attribute]
 block = true
