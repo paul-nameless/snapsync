@@ -2,6 +2,7 @@ baseURL = 'https://paul-nameless.com/snapsync/'
 languageCode = 'en-us'
 title = 'SnapSync'
 theme = 'PaperMod'
+canonifyURLs = true
 
 [[menu.main]]
 identifier = "help"
