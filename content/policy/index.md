@@ -1,6 +1,7 @@
 ---
 title: "Privacy Policy"
 date: 2023-03-07T10:00:00+00:00
+robotsNoIndex: true
 ---
 **Privacy Policy**
 

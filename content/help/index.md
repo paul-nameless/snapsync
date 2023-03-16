@@ -1,7 +1,8 @@
 ---
 title: "Help"
-date: 2023-03-06T10:00:00+00:00
+tocopen: true
 ---
+
 ### Setup WebDAV
 
 1. Enter `URL`: `http(s)://[ip or domain]:[port]`
@@ -11,5 +12,8 @@ date: 2023-03-06T10:00:00+00:00
 5. Choose which Album to Sync (`Recents` for all photos)
 6. Setup `Subfolder` in the format described on the window
 
-![](/settings.png)
+![](/settings.png#center)
 {.main-page-img}
+
+
+Feedback: [hello.snapsync@gmail.com](mailto:hello.snapsync@gmail.com)
