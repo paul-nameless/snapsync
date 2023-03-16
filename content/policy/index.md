@@ -4,7 +4,7 @@ date: 2023-03-07T10:00:00+00:00
 ---
 **Privacy Policy**
 
-Paul Nameless built the SnapSync+ app as a Freemium app. This SERVICE is provided by Paul Nameless at no cost and is intended for use as is.
+Paul Klymenko built the SnapSync+ app as a Freemium app. This SERVICE is provided by Paul Klymenko at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
