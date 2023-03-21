@@ -1,4 +1,0 @@
----
-ShowToc: false
----
-## Contact

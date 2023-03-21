@@ -1,6 +1,6 @@
 ---
 title: "Terms of Use"
-date: 2023-03-21T10:00:00+00:00
+date: 2023-03-21T10:45:04+01:00
 robotsNoIndex: true
 ---
 **End-User License Agreement (EULA) of SnapSync+**
